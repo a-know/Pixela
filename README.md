@@ -1,2 +1,4 @@
-# Pixela
-Pixelation API service
+Pixela - Pixelation API Service
+============
+
+https://pixe.la
