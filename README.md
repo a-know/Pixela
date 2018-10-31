@@ -17,7 +17,7 @@ This GitHub repository is a page for exchanging information like the following w
 
 Please feel free to use here!
 
-## How to use
+## How to use this repository
 ### Check release information
 Please check [releases page of this repository](https://github.com/a-know/Pixela/releases).
 
