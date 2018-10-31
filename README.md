@@ -3,7 +3,11 @@ Pixela - Pixelation API Service
 
 [![](https://pixe.la/assets/images/other_images/pixela-logo.png)](https://pixe.la)
 
-## About this
+## About this service
+- [Pixela, a service for generating GitHub-like graphs](https://medium.com/@a.know.dev/pixela-a-service-for-generating-github-like-graphs-5867baaa107b)
+- [[in Japanese] commit以外の数値でも草を生やせる、PixelaというAPIサービスを作った！](https://blog.a-know.me/entry/2018/10/14/212338)
+
+## About this repository
 This GitHub repository is a page for exchanging information like the following with [Pixela](https://pixe.la) users. (I do not put Pixela's source code here, I'm sorry.)
 
 - release information
