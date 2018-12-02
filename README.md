@@ -1,4 +1,4 @@
-Pixela - Pixelation API Service
+Pixela - Record and Visualize your effort. All by API.
 ============
 
 [![](https://pixe.la/assets/images/other_images/pixela-logo.png)](https://pixe.la)
