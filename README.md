@@ -40,5 +40,5 @@ Please check [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
 Please see [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
 
 ## Pixela Goods Shop
-[[in Japanese] Pixela Goods Shop](https://suzuri.jp/pixela)
+[[in Japanese] Pixela Goods Shop - SUZURI.jp](https://suzuri.jp/pixela)
 (Revenue from goods sales is used for improving service.)
