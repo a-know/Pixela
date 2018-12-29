@@ -1,7 +1,7 @@
 Pixela - Record and Visualize your effort. All by API.
 ============
 
-[![](https://pixe.la/assets/images/other_images/pixela-logo.png)](https://pixe.la)
+[![](https://pixe.la/assets/images/other_images/pixela_color.png)](https://pixe.la)
 
 ## About this service
 - [Pixela, a service for generating GitHub-like graphs](https://medium.com/@a.know.dev/pixela-a-service-for-generating-github-like-graphs-5867baaa107b)
@@ -38,3 +38,7 @@ Please check [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
 
 ## About us
 Please see [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
+
+## Pixela Goods Shop
+[Pixela Goods Shop](https://suzuri.jp/pixela)
+(Revenue from goods sales is used for improving service.)
