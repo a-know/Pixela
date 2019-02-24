@@ -10,7 +10,7 @@ Pixela - Record and Visualize your effort. All by API.
 <img width="672" alt="2018-10-29 9 22 48" src="https://user-images.githubusercontent.com/1097533/47780099-0e27cb80-dd3e-11e8-87ef-426bb7cfc76c.png">
 
 
-- [[in Japanese] ["草APIサービス" Pixela のコマンドラインツールを作ったので、OSごとのインストール・使い方を書きます！](https://blog.a-know.me/entry/2019/02/24/214142)
+- [in Japanese] ["草APIサービス" Pixela のコマンドラインツールを作ったので、OSごとのインストール・使い方を書きます！](https://blog.a-know.me/entry/2019/02/24/214142)
 
 ## About this repository
 This GitHub repository is a page for exchanging information like the following with [Pixela](https://pixe.la) users. (I do not put Pixela's source code here, I'm sorry.)
