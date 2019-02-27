@@ -42,6 +42,9 @@ Please check [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
 ## About us
 Please see [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
 
+## Service status (Alert index)
+[![](https://pixe.la/v1/users/pixela/graphs/alert-index)](https://pixe.la/v1/users/pixela/graphs/alert-index.html)
+
 ## Pixela Goods Shop
 [[in Japanese] Pixela Goods Shop - SUZURI.jp](https://suzuri.jp/pixela)
 (Revenue from goods sales is used for improving service.)
