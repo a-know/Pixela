@@ -1,4 +1,4 @@
-Pixela - Record and Visualize your effort. All by API.
+Pixela - Record and Track your habits or effort. All by API.
 ============
 
 [![](https://pixe.la/assets/images/other_images/pixela_color.png)](https://pixe.la)
