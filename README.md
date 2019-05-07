@@ -47,7 +47,7 @@ Please check [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
 
 
 ## Support Pixela
-Pixela is accepting support by [Patreon](https://www.patreon.com/).
+Pixela is accepting support by [Patreon](https://www.patreon.com/pixe_la).
 Funding from supporters is used to develop, renovate and maintain for Pixela.
 
 For details, please see [How to support Pixela by Patreon ／ Use Limited Features](https://github.com/a-know/Pixela/wiki/How-to-support-Pixela-by-Patreon-%EF%BC%8F-Use-Limited-Features).
