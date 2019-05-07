@@ -13,7 +13,7 @@ Pixela - Record and Track your habits or effort. All by API.
 - [in Japanese] ["草APIサービス" Pixela のコマンドラインツールを作ったので、OSごとのインストール・使い方を書きます！](https://blog.a-know.me/entry/2019/02/24/214142)
 
 ## About this repository
-This GitHub repository is a page for exchanging information like the following with [Pixela](https://pixe.la) users. (I do not put Pixela's source code here, I'm sorry.)
+This GitHub repository is a page for exchanging information like the following with [Pixela](https://pixe.la) users. (I do not put Pixela's source code here, sorry.)
 
 - release information
 - Specification questions, bug reports, etc.
@@ -38,13 +38,16 @@ I also want to communicate in English as much as possible. I am not good at Engl
 ### Check Terms of Service
 Please check [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
 
-
-## About us
-Please see [Pixela Wiki pages](https://github.com/a-know/Pixela/wiki).
-
 ## Service status (Alert index)
 [![](https://pixe.la/v1/users/pixela/graphs/alert-index)](https://pixe.la/v1/users/pixela/graphs/alert-index.html)
 
 ## Pixela Goods Shop
 [[in Japanese] Pixela Goods Shop - SUZURI.jp](https://suzuri.jp/pixela)
 (Revenue from goods sales is used for improving service.)
+
+
+## Support Pixela
+Pixela is accepting support by [Patreon](https://www.patreon.com/).
+Funding from supporters is used to develop, renovate and maintain for Pixela.
+
+For details, please see [How to support Pixela by Patreon ／ Use Limited Features](https://github.com/a-know/Pixela/wiki/How-to-support-Pixela-by-Patreon-%EF%BC%8F-Use-Limited-Features).
