@@ -1,6 +1,12 @@
 Pixela - Record and Track your habits or effort. All by API.
 ============
+[![pixela][pixela-badge]][pixela]
 
+[pixela-badge]: https://pixe.la/v1/users/pixela/graphs/alert-index.svg?mode=badge
+[pixela]: https://pixe.la/v1/users/pixela/graphs/alert-index.html
+
+
+# Description
 [![](https://pixe.la/assets/images/other_images/pixela_color.png)](https://pixe.la)
 
 ## About this service
